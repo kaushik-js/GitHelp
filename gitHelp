@@ -1,0 +1,12 @@
+If not registered-------------------------------------------
+git config --global user.email "Your Gmail"
+git config --global user.name "Your GitHub Name"
+------------------------------------------------------------
+
+Go to Working Directory using cd and cd .. commands
+
+git add .
+git init
+git commit -m "first commit"
+git remote add origin https://github.com/"Repo link".git
+git push -u origin master/main(Or any Branch)
