@@ -5,8 +5,8 @@ git config --global user.name "Your GitHub Name"
 
 Go to Working Directory using cd and cd .. commands
 
-git add .
 git init
+git add .
 git commit -m "first commit"
 git remote add origin https://github.com/"Repo link".git
 git push -u origin master/main(Or any Branch)
