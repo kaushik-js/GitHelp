@@ -1,6 +1,6 @@
 If not registered-------------------------------------------
-git config --global user.email "Your Gmail"
-git config --global user.name "Your GitHub Name"
+git config --global user.email "joshikaushik25@gmail.com"
+git config --global user.name "Kaushik Joshi"
 ------------------------------------------------------------
 
 Go to Working Directory using cd and cd .. commands
